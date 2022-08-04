@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="apptest.AccPageTest" skipped="0" tests="3" time="60.95" timestamp="2022-08-04 12:16:39"><testcase classname="apptest.AccPageTest" name="Acc page logo test"/><testcase classname="apptest.AccPageTest" name="Search test"/><testcase classname="apptest.AccPageTest" name="Acc page title test"/></testsuite>
